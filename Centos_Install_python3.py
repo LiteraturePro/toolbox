@@ -37,6 +37,7 @@ def main():
     exe_cmd("./configure")
     exe_cmd("make")
     exe_cmd("make install")
+    exe_cmd("pip3 install --upgrade pip")
     print ("程序执行完成！输入python3 查看效果。")
  
  
