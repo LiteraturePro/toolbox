@@ -2,8 +2,8 @@
 我自己常用的一些脚本
 
 ``
-
-
+https://github.com/openebs/charts
+https://www.cnblogs.com/wuvikr/p/14621167.html
 IP转发https://www.zhoujiangang.com/p/iptables-redirect-ip/
 
 
