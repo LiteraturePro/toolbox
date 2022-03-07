@@ -7,6 +7,9 @@
 IP转发https://www.zhoujiangang.com/p/iptables-redirect-ip/
 
 
+kubectl describe pod jenkins-6b5569d7cd-lfbk8 -n devops
+kubectl describe pvc jenkinspvc -n devops
+
 远程节点安装k8s
 
 https://blog.csdn.net/weixin_43988498/article/details/122639595?spm=1035.2023.3001.6557&utm_medium=distribute.pc_relevant_bbs_down_v2.none-task-blog-2~default~OPENSEARCH~Rate-2.pc_relevant_bbs_down_v2_default&depth_1-utm_source=distribute.pc_relevant_bbs_down_v2.none-task-blog-2~default~OPENSEARCH~Rate-2.pc_relevant_bbs_down_v2_default
