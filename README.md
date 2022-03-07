@@ -3,9 +3,13 @@
 
 ``
 https://github.com/openebs/charts
+
 https://www.cnblogs.com/wuvikr/p/14621167.html
+
 IP转发https://www.zhoujiangang.com/p/iptables-redirect-ip/
 
+
+http://t.zoukankan.com/xiaoyaojinzhazhadehangcheng-p-14119665.html
 
 kubectl describe pod jenkins-6b5569d7cd-lfbk8 -n devops
 kubectl describe pvc jenkinspvc -n devops
