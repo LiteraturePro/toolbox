@@ -1,6 +1,10 @@
 # toolbox
 我自己常用的一些脚本
 
+
+        https://raw.githubusercontent.com/LiteraturePro/toolbox/master/Centos_Install_python3.py && python Centos_Install_python3.py
+
+
 ``
 https://github.com/openebs/charts
 
